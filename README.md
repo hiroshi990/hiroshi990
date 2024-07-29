@@ -33,11 +33,11 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Pandas" height="25" src="pandas-svgrepo-com.svg"></code>
+  <code><img title="numpy" height="25" src="numpy-svgrepo-com.svg"></code>
+  <code><img title="matplotlib" height="25" src="matplotlib.png"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="tensorflow" height="25" src="tensorflow-icon.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
