@@ -12,13 +12,9 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Aditya Sharma, a college student who is passionate about AI/ML from India.
+  Hi, I'm Aditya Sharma, a NIT Hamirpur graduate who is passionate about AI/ML from India.
   <br>
-  <br>
-  🔬 I'm currently studying for my bachelors at National Institute of Technology Hamirpur
-  <br>
-  <br>
-  🎓 I graduated from Delhi Public School , Haridwar
+  🎓 I did my schooling from Delhi Public School Ranipur, Haridwar
   <br>
   💻 I love knowing about Data Science and build AI apps.
   <br>
